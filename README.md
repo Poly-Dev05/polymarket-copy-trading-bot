@@ -9,8 +9,6 @@
 
 This is a live Telegram copy trading bot. You can check the TG bot workspace to see it in action.
 
-![Telegram Bot Interface](https://raw.githubusercontent.com/0xddev/polymarket-copy-trading-bot/main/Untitled.png)
-
 **Interested in the bot? Contact:** [S.E.I](https://t.me/sei_dev)
 
 ## Overview
