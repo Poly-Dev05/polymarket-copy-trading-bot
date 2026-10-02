@@ -7,8 +7,6 @@
 
 ## 🚀 Live Telegram Bot
 
-**Try the live Telegram copy trading bot:** [@ddev05_bot](https://t.me/ddev05_bot)
-
 This is a live Telegram copy trading bot. You can check the TG bot workspace to see it in action.
 
 ![Telegram Bot Interface](https://raw.githubusercontent.com/0xddev/polymarket-copy-trading-bot/main/Untitled.png)
